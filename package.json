@@ -1,0 +1,23 @@
+{
+  "name": "eslint-config-mrdgh2821",
+  "version": "1.0.0",
+  "description": "ESLint config for use in MRSGH2821's projects",
+  "main": "index.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MRDGH2821/eslint-config-mrdgh2821.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MRDGH2821/eslint-config-mrdgh2821/issues"
+  },
+  "homepage": "https://github.com/MRDGH2821/eslint-config-mrdgh2821#readme",
+  "dependencies": {
+    "prettier-config-mrdgh2821": "^1.0.0"
+  }
+}
