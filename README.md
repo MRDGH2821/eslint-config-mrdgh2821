@@ -2,8 +2,9 @@
 
 ESLint config for use in MRDGH2821's projects
 
-Inspired by [Discord JS ESLint Rules](https://discordjs.guide/preparations/setting-up-a-linter.html#setting-up-eslint-rules)
+v1.1.0 Inspired by [Discord JS ESLint Rules](https://discordjs.guide/preparations/setting-up-a-linter.html#setting-up-eslint-rules)
 
+v2.0 enables all rules of ESLint with few rules having overrides. So if there is any unneeded rule, please modify in the config file. 
 ## Install
 
 Install using this command.
