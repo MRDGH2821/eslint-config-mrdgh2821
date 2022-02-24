@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-mrdgh2821",
   "version": "1.1.0",
-  "description": "ESLint config for use in MRSGH2821's projects",
+  "description": "ESLint config for use in MRDGH2821's projects",
   "main": "index.json",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
