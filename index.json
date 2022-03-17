@@ -12,7 +12,6 @@
     "indent": ["error", 2],
     "no-console": "off",
     "max-len": "off",
-    "quotes": ["error", "single"],
     "capitalized-comments": ["error", "never"],
     "max-lines-per-function": ["off"],
     "camelcase": "off",
