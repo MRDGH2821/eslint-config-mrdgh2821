@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-mrdgh2821",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "ESLint config for use in MRDGH2821's projects",
   "main": "index.json",
   "scripts": {
