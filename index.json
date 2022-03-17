@@ -34,6 +34,7 @@
     "no-plusplus": ["error", { "allowForLoopAfterthoughts": true }],
     "multiline-comment-style": ["error", "bare-block"],
     "no-ternary": "warn",
+    "max-lines": "warn",
     "object-property-newline": [
       "error",
       { "allowAllPropertiesOnSameLine": true }
